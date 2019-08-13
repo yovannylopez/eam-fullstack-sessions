@@ -1,4 +1,4 @@
->## Table of Content
+> # Table of Content
 
 <p>Content of the topics proposed in the fullstack course with nodejs of EAM University.<br/><span>By Yovanny López (Teacher)</span></p>
 
@@ -15,3 +15,17 @@
     * <a href="workshops/Workshop5.md">Workshop 5</a>
     * <a href="workshops/Workshop6.md">Workshop 6</a>
 * <a href="sessions/3.md">Session 3</a>
+
+### Project 2
+<hr/>
+Work in process...
+<hr/>
+
+> ## Presentations
+
+<em>Session 1</em>
+* <a href="./presentations/1.NodeJS-Intro.pdf" target="_blank">NodeJs Introduction</a>
+* <a href="./presentations/2.git.pptx" target="_blank">Git</a>
+
+<em>Session 2</em>
+* <a href="./presentations/3.Frameworks.pptx" target="_blank">Framework and Libraries</a>
