@@ -29,3 +29,9 @@ Work in process...
 
 <em>Session 2</em>
 * <a href="./presentations/3.Frameworks.pptx" target="_blank">Framework and Libraries</a>
+
+<hr/>
+
+> ## Recommended Extensions
+
+* <a href="./extensions.md" target="_blank">Recommended extensions for VSCode</a>
