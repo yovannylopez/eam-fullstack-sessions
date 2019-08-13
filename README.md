@@ -1,6 +1,6 @@
 >## Table of Content
 
-<p>Content of the topics proposed in the course full stack with nodejs of the University EAM</p>
+<p>Content of the topics proposed in the fullstack course with nodejs of EAM University.<br/><span>By Yovanny López (Teacher)</span></p>
 
 ### Project 1
 <hr/>
