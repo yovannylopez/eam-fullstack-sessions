@@ -12,7 +12,7 @@ let fs = require('fs');
 let path = require('path');
 
 http
-	.createServer(function(request, response) {
+	.createServer((request, response) => {
 		console.log('request ', request.url);
 
 		let filePath = '.' + request.url;
@@ -88,4 +88,8 @@ node server.js
 ```
 
 5. Verificar en el navegador la ruta [http://localhost:3000/]
+
+<hr/>
+
+<a href="../README.md">Regresar</a>
 

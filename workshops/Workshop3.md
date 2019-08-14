@@ -25,7 +25,7 @@ const express = require('express');
 
 const app = express();
 
-app.get('/', function(req, res){
+app.get('/', (req, res) => {
     res.send('Running express');
 });
 
@@ -39,3 +39,7 @@ node server.js
 ```
 
 6. Verificar en el navegador la ruta [http://localhost:3000/]
+
+<hr/>
+
+<a href="../README.md">Regresar</a>

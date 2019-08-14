@@ -4,8 +4,13 @@
 
 Pasos:
 1. Clonar el taller 4
+
 2. Instalar la dependencia body parser
-4. Modificar el archivo server.js con el siguiente código:
+```
+npm install body-parser
+```
+
+3. Modificar el archivo server.js con el siguiente código:
 ```
 const express = require('express');
 const bodyParser = require('body-parser');
@@ -14,19 +19,19 @@ const app = express();
 
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.get('/hello', function(req, res) {
+app.get('/hello', (req, res) => {
 	res.send(`Hello: ${req.query.name}`);
 });
 
-app.post('/', function(req, res) {
-	res.send(`Hello: ${req.query.name}`);
+app.post('/', (req, res) => {
+	res.send(`Hello: ${req.body.name}`);
 });
 
 app.listen(3000);
 console.log('Server running at http://localhost:3000/');
 
 ```
-5. Ejecutar en Postman la petición de tipo POST con la url:
+4. Ejecutar en Postman la petición de tipo POST con la url:
 ```
 http://localhost:3000/
 ```
@@ -36,4 +41,8 @@ http://localhost:3000/
 ![POST en postman](./images/post.png)
 
 * Debemos asegurarnos que el retorno sea status 200
+
+<hr/>
+
+<a href="../README.md">Regresar</a>
 

@@ -4,10 +4,12 @@
 
 Pasos:
 1. Crear directorio
+
 2. Ingresar al directorio y ejecutar el comando:
 ```
 npm init
 ```
+
 3. Crear un archivo denominado server.js que contenga el siguiente código:
 ```
 const http = require('http');
@@ -21,9 +23,15 @@ let server = http.createServer(firstRequest);
 server.listen(3000);
 console.log('Server running at http://localhost:3000/');
 ```
+
 4. En la terminal ejecutar el comando:
 ```
 node server.js
 ```
+
 5. Verificar en el navegador la ruta [http://localhost:3000/]
+
+<hr/>
+
+<a href="../README.md">Regresar</a>
 

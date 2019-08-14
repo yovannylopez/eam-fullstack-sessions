@@ -11,7 +11,7 @@ const express = require('express');
 
 const app = express();
 
-app.get('/', function(req, res){
+app.get('/', (req, res) => {
     res.send('Running express');
 });
 
@@ -38,3 +38,7 @@ http://localhost:3000/hello?<query_param>
 ![GET en postman](./images/get.png)
 
 * Debemos asegurarnos que el retorno sea status 200
+
+<hr/>
+
+<a href="../README.md">Regresar</a>
