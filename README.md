@@ -42,3 +42,7 @@ Work in process...
 > ## Recommended Extensions
 
 * <a href="./extensions.md" target="_blank">Recommended extensions for VSCode</a>
+
+<hr/>
+
+> ## Official documentation
