@@ -39,6 +39,6 @@ http://localhost:3000/hello?<query_param>
 
 * Debemos asegurarnos que el retorno sea status 200
 
-<hr/>
+***
 
 <a href="../README.md">Regresar</a>

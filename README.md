@@ -6,7 +6,7 @@
 
 <em>Backend and Frontend with express</em>
 
-<hr/>
+***
 
 * <a href="./prerequisites.md">Prerequisites</a>
 * <a href="sessions/1.md">Session 1</a>
@@ -22,9 +22,10 @@
     * <a href="workshops/Workshop8.md">Workshop 8</a>
     * <a href="workshops/Workshop9.md">Workshop 9</a>
     * <a href="workshops/Workshop10.md">Workshop 10</a>
+* <a href="sessions/4.md">Session 4</a>
 
-<hr/>
-<hr/>
+***
+***
 
 #### Dependencies:
 
@@ -41,9 +42,9 @@
 
 <em>Backend with express and Frontend with React</em>
 
-<hr/>
+***
 Work in process...
-<hr/>
+***
 
 > ## Presentations
 
@@ -57,13 +58,13 @@ Work in process...
 <em>Session 4</em>
 * <a href="./presentations/4.Project1-Architecture.pptx" target="_blank">Project 1 Architecture</a>
 
-<hr/>
+***
 
 > ## Recommended Extensions
 
 * <a href="./extensions.md" target="_blank">Recommended extensions for VSCode</a>
 
-<hr/>
+***
 
 > ## Official documentation
 

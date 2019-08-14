@@ -46,6 +46,6 @@ node server.js
 
 7. Reto 2: Consulta sobre la sintaxis de ejs
 
-<hr/>
+***
 
 <a href="../README.md">Regresar</a>

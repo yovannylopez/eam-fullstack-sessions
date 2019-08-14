@@ -47,6 +47,6 @@ node server.js
 
 7. Actualizamos navegador varias veces para ver el incremento.
 
-<hr/>
+***
 
 <a href="../README.md">Regresar</a>

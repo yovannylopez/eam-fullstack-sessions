@@ -19,3 +19,7 @@ Además, las sesiones no pueden modificarse desde el cliente, ya que aunque el i
 
 Por otro lado, es común que las aplicaciones web encripten las cookies para que estas no puedan ser leídas o modificadas en texto plano, para eso también hay distintas implementaciones con algoritmos de encriptación.
 En general, la regla es, no almacenes información sensible o de importancia para tu aplicación en cookies, usa sesiones. Para todo lo demás, usa cookies.
+
+***
+
+<a href="../README.md">Regresar</a>

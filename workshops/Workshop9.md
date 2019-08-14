@@ -31,6 +31,6 @@ node server.js
 
 7. Verificar en el navegador la ruta [http://localhost:3000/], reiniciamos el servidor y actualizamos navegador de ser necesario. No debemos notar los cambios realizados en el archivo css.
 
-<hr/>
+***
 
 <a href="../README.md">Regresar</a>

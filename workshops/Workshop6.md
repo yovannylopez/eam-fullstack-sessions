@@ -53,6 +53,6 @@ app.get('/', (req, res) => {
 
 4. Verificar los cambios en el navegador la ruta [http://localhost:3000/]
 
-<hr/>
+***
 
 <a href="../README.md">Regresar</a>

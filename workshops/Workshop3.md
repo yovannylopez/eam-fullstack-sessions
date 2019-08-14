@@ -40,6 +40,6 @@ node server.js
 
 6. Verificar en el navegador la ruta [http://localhost:3000/]
 
-<hr/>
+***
 
 <a href="../README.md">Regresar</a>

@@ -42,6 +42,6 @@ node server.js
 
 8. Reto: Consulta sobre la sintaxis de pug
 
-<hr/>
+***
 
 <a href="../README.md">Regresar</a>

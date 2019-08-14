@@ -27,6 +27,6 @@
 
 * Javascript (ES6) code snippet
 
-<hr/>
+***
 
 <a href="./README.md">Regresar</a>

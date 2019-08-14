@@ -42,7 +42,7 @@ http://localhost:3000/
 
 * Debemos asegurarnos que el retorno sea status 200
 
-<hr/>
+***
 
 <a href="../README.md">Regresar</a>
 
