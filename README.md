@@ -3,6 +3,9 @@
 <p>Content of the topics proposed in the fullstack course with nodejs of EAM University.<br/><span>By Yovanny López (Teacher)</span></p>
 
 ### Project 1
+
+<em>Backend and Frontend with express</em>
+
 <hr/>
 
 * <a href="./prerequisites.md">Prerequisites</a>
@@ -15,8 +18,12 @@
     * <a href="workshops/Workshop5.md">Workshop 5</a>
     * <a href="workshops/Workshop6.md">Workshop 6</a>
 * <a href="sessions/3.md">Session 3</a>
+    * <a href="workshops/Workshop7.md">Workshop 7</a>
 
 ### Project 2
+
+<em>Backend with express and Frontend with React</em>
+
 <hr/>
 Work in process...
 <hr/>
