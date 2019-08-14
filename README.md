@@ -23,6 +23,20 @@
     * <a href="workshops/Workshop9.md">Workshop 9</a>
     * <a href="workshops/Workshop10.md">Workshop 10</a>
 
+<hr/>
+<hr/>
+
+#### Dependencies:
+
+<fieldset>
+* nodemon
+* express
+* body-parser
+* cookie-session
+* ejs
+* pug
+</fieldset>
+
 ### Project 2
 
 <em>Backend with express and Frontend with React</em>
@@ -40,6 +54,9 @@ Work in process...
 <em>Session 2</em>
 * <a href="./presentations/3.Frameworks.pptx" target="_blank">Framework and Libraries</a>
 
+<em>Session 4</em>
+* <a href="./presentations/4.Project1-Architecture.pptx" target="_blank">Project 1 Architecture</a>
+
 <hr/>
 
 > ## Recommended Extensions
@@ -50,3 +67,22 @@ Work in process...
 
 > ## Official documentation
 
+[node.js] <https://nodejs.org/download/release/>
+
+[npm] <https://www.npmjs.com/>
+
+[yarn] https://yarnpkg.com/lang/en/
+
+[git] <https://git-scm.com/>
+
+[github] <https://github.com/>
+
+[express.js] <https://expressjs.com/>
+
+[ejs] <https://ejs.co/>
+
+[pug] <https://pugjs.org/api/getting-started.html>
+
+[body-parser] <https://www.npmjs.com/package/body-parser>
+
+[cookie-session] <https://www.npmjs.com/package/cookie-session>

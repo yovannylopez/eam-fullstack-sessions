@@ -6,7 +6,7 @@ Pasos:
 
 1. Clonar el taller 6
 
-2. Instalamos la dependencia ejs
+2. Instalamos la dependencia ejs (embedded Javascript templating)
 ```
 npm install ejs
 ```
