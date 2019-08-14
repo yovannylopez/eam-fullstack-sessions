@@ -19,6 +19,9 @@
     * <a href="workshops/Workshop6.md">Workshop 6</a>
 * <a href="sessions/3.md">Session 3</a>
     * <a href="workshops/Workshop7.md">Workshop 7</a>
+    * <a href="workshops/Workshop8.md">Workshop 8</a>
+    * <a href="workshops/Workshop9.md">Workshop 9</a>
+    * <a href="workshops/Workshop10.md">Workshop 10</a>
 
 ### Project 2
 
@@ -46,3 +49,4 @@ Work in process...
 <hr/>
 
 > ## Official documentation
+
