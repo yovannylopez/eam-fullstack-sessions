@@ -1,6 +1,6 @@
 > ## Workshop 7:
 
-<em>Motor de vistas</em>
+<em>Motor de plantillas</em>
 
 Pasos:
 
@@ -8,7 +8,7 @@ Pasos:
 
 2. Instalamos la dependencia ejs ()
 ```
-npm install ejs
+npm install ejs pug
 ```
 
 3. Modificamos el archivo server.js
@@ -42,7 +42,11 @@ node server.js
 
 5. Verificar en el navegador la ruta [http://localhost:3000/]
 
-6. Reto: Personalizar la vista con css
+6. Reto 1: Definir pug como motor de plantillas
+
+7. Reto 2: Personalizar la vista con css
+
+8. Reto 3: Consulta sobre ejs y pug
 
 <hr/>
 
