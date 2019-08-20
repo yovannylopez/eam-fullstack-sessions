@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/hello', function(req, res){
-    res.send(`Hello: ${req.query.name});
+    res.send(`Hello: ${req.query.name}`);
 });
 
 app.listen(3000);
@@ -28,9 +28,14 @@ console.log('Server running at http://localhost:3000/');
 node server.js
 ```
 
-4. Ejecutar en Postman la petición de tipo GET con la url:
+4. Podemos verificar en el navegador el funcionamiento de la petición, con la url de ejemplo
 ```
-http://localhost:3000/hello?<query_param>
+http://localhost:3000/hello?name=yovanny
+```
+
+5. Ejecutar en Postman la petición de tipo GET con la url:
+```
+http://localhost:3000/hello?name=yovanny
 ```
 
 * click en el botón Send:
